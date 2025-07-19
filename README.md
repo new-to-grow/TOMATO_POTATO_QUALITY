@@ -39,7 +39,7 @@ This project uses **Grad-CAM** to provide **heatmaps** that show which parts of 
 
 | Original Image | Grad-CAM Heatmap |
 |----------------|------------------|
-| ![input](assets/example_input.jpg) | ![heatmap](assets/example_heatmap.jpg) |
+| ![input](assets/example_input.png) | ![heatmap](assets/example_heatmap.png) |
 
 > Grad-CAM allows users to **see what the model is "looking at"** when making predictions, improving trust and interpretability.
 
