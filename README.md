@@ -57,5 +57,4 @@ This project uses **Grad-CAM** to provide **heatmaps** that show which parts of 
 
 ---
 
-## 📁 Project Structure
 
